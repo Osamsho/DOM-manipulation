@@ -1,3 +1,6 @@
+
+// FOR MyBank html file -------------------------------------
+
 document.getElementById('login-submit').addEventListener('click',function(){
 
     //get user email
@@ -18,3 +21,5 @@ else{
     alert('Khankir put!!!!');
 }
 })
+
+
